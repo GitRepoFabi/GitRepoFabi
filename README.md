@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitrepofabi&show_icons=true&locale=es" alt="gitrepofabi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitrepofabi&" alt="gitrepofabi" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GitRepoFabi&theme=dracula&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
